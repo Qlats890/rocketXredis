@@ -1,2 +1,2 @@
 # rocketXredis
-Try to make back end with SpaceX API
+Try to make Express back end with SpaceX API 
