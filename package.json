@@ -1,0 +1,27 @@
+{
+  "name": "rocketXredis",
+  "version": "1.0.0",
+  "description": "Try to make Express back end with SpaceX API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qlats890/rocketXredis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qlats890/rocketXredis/issues"
+  },
+  "homepage": "https://github.com/Qlats890/rocketXredis#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "redis": "^3.1.2",
+    "response-time": "^2.3.2"
+  }
+}
